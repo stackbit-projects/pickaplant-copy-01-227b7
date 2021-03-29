@@ -6,13 +6,9 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: Welcome to Planty
-    subtitle: >-
-      Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-      from Québec City. Planty is a theme we built for
-      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-      enable e-commerce on Planty, you’ll need to [sign up for
-      Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-      required.
+    subtitle: >
+      This is a little bit about the creator! AKA Me! Noah Payne!
+      ![](/images/noah.jpg)
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
