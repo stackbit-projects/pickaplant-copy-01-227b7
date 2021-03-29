@@ -7,7 +7,7 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: >-
-      # Real plants right to your door without breaking the bank
+      # Real plants to your door without breaking the bank
 
       Don't forget to add your Snipcart API key to the site's configuration to
       enable Cart actions.
